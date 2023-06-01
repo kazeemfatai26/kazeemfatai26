@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KAZEEM fatai</h1>
-<h3 align="center">I intend to become a Data Analyst</h3>
+<h3 align="center">A Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kazeemfata26&label=Profile%20views&color=0e75b6&style=flat" alt="kazeemfatai26" /> </p>
 
